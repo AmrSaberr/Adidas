@@ -1,3 +1,2 @@
-# Adidas
-## Project Link
+# Demo
 https://amrsaberr.github.io/Adidas/
